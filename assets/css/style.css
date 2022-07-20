@@ -1,0 +1,53 @@
+body{
+    margin: 2;
+}
+
+#history p {
+    background-color: #2247F6;
+    border: 1px solid black;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+#history {
+    /* width: 500px; */
+    height: 500px;
+    overflow-y: auto;
+}
+
+#message {
+    /* width: 433px; */
+    width: 100%;
+    margin-right: 10px;
+    background-color: transparent;
+    border-radius:5px ;
+    color: black;
+    height: 30px;
+}
+
+#send-message {
+    height: 35px;
+    width: 35px;
+    border-radius: 100px;
+    border: 1px solid #8696A0;
+    color: #8696A0;
+    background-color:#202C33;
+}
+
+#form-control{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    /* width: 500px; */
+    
+}
+
+#img{
+text-align: center;
+height: 35px;
+}
+    
+
+
+
+
